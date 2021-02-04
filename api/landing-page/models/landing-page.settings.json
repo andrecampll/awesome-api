@@ -24,6 +24,17 @@
       "type": "component",
       "repeatable": false,
       "component": "page.header"
+    },
+    "section": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section",
+      "required": false
+    },
+    "sectionTech": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-tech"
     }
   }
 }
