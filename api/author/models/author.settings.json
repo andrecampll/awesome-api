@@ -33,6 +33,11 @@
       "repeatable": true,
       "component": "page.social-links",
       "required": true
+    },
+    "description": {
+      "type": "text",
+      "unique": false,
+      "required": true
     }
   }
 }

@@ -17,10 +17,9 @@
       "required": true
     },
     "title": {
-      "type": "string",
+      "type": "text",
       "private": false,
-      "required": true,
-      "maxLength": 20
+      "required": true
     },
     "description": {
       "type": "richtext",
